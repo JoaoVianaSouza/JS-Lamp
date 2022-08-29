@@ -1,2 +1,2 @@
 # JS-Lamp
-Neste projeto, temos a aplicação web de Js em uma lâmpada. Neste projeto, o usuário consegue ligar, desligar e quebrar a lâmpada.
+Neste projeto, temos a aplicação web de JavaScript em uma lâmpada. Através das aplicações de Js, HTML e CSS, o usuário consegue ligar, desligar e quebrar a lâmpada.
